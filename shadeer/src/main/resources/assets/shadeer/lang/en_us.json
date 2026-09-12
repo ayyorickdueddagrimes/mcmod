@@ -1,0 +1,20 @@
+{
+  "entity.shadeer.songbird": "Songbird",
+  "entity.shadeer.hawk": "Hawk",
+  "entity.shadeer.water_bird": "Water Bird",
+  "entity.shadeer.butterfly": "Butterfly",
+  "entity.shadeer.dragonfly": "Dragonfly",
+  "entity.shadeer.firefly": "Firefly",
+  "entity.shadeer.tropical_fish": "Tropical Fish",
+  "entity.shadeer.deep_ocean_fish": "Deep Ocean Fish",
+  "entity.shadeer.jellyfish": "Jellyfish",
+  "item.shadeer.songbird_spawn_egg": "Songbird Spawn Egg",
+  "item.shadeer.hawk_spawn_egg": "Hawk Spawn Egg",
+  "item.shadeer.water_bird_spawn_egg": "Water Bird Spawn Egg",
+  "item.shadeer.butterfly_spawn_egg": "Butterfly Spawn Egg",
+  "item.shadeer.dragonfly_spawn_egg": "Dragonfly Spawn Egg",
+  "item.shadeer.firefly_spawn_egg": "Firefly Spawn Egg",
+  "item.shadeer.tropical_fish_spawn_egg": "Tropical Fish Spawn Egg",
+  "item.shadeer.deep_ocean_fish_spawn_egg": "Deep Ocean Fish Spawn Egg",
+  "item.shadeer.jellyfish_spawn_egg": "Jellyfish Spawn Egg"
+}
